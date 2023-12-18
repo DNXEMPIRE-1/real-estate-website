@@ -25,5 +25,5 @@ Welcome to the Real Estate Website project! This platform is designed to assist 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/real-estate-website.git
+   git clone https://github.com/DNXEMPIRE-1/real-estate-website.git
    cd real-estate-website
